@@ -18,5 +18,3 @@ $(function () {
         $('input:text').val('');
     });
 })
-// most functions/arguments don't need to have anything in parenthesis
-// some, such as 
